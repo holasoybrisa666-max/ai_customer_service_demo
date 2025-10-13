@@ -1,22 +1,22 @@
 
-# 🤖 AI Customer Service Assistant
+#  AI Customer Service Assistant
 
 An intelligent customer service chatbot built with **Flask + OpenAI + PostgreSQL**, featuring database logging, n8n webhook automation, and a clean web interface.
 
 ---
 
-## 🌟 Features
+## Features
 
-- 💬 AI-powered chat using OpenAI GPT-4o-mini
-- 🗂 Automatic logging of all conversations to PostgreSQL
-- 📊 Simple web admin interface for viewing logs
-- 🔗 Integration with n8n workflows via webhook
-- ⚙️ Configurable with `.env` environment file
-- 🧱 Built with Flask, easy to deploy on Render or Railway
+- AI-powered chat using OpenAI GPT-4o-mini
+- Automatic logging of all conversations to PostgreSQL
+- Simple web admin interface for viewing logs
+- Integration with n8n workflows via webhook
+- Configurable with `.env` environment file
+- Built with Flask, easy to deploy on Render or Railway
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |--------|-------------|
@@ -28,7 +28,7 @@ An intelligent customer service chatbot built with **Flask + OpenAI + PostgreSQL
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ```bash
 git clone https://github.com/yourname/ai_customer_service_demo.git
@@ -49,24 +49,24 @@ Then open: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ---
 
-## 📸 Demo Screenshots
+## Demo Screenshots
 
-### 💻 Project Running (Flask)
+### Project Running (Flask)
 ![Run Server](static/run_server.png)
 
-### 💬 Chat Interface
+### Chat Interface
 ![Chat Demo](static/chat_demo.png)
 
-### 🗄️ Database Logs (PostgreSQL)
+### Database Logs (PostgreSQL)
 ![Database Logs](static/db_logs.png)
 
-### 🔗 n8n Workflow Integration
+### n8n Workflow Integration
 ![n8n Workflow](static/n8n_workflow.png)
 
-### ⚙️ n8n Execution Log
+### n8n Execution Log
 ![n8n Execution](static/n8n_execution.png)
 
-### 📁 Project Structure
+### Project Structure
 ![Project Structure](static/project_structure.png)
 
 ---
@@ -87,7 +87,7 @@ DATABASE_URL=postgresql+psycopg2://USER:PASSWORD@localhost:5432/DB_NAME
 
 ---
 
-## 🧠 Future Improvements
+## Future Improvements
 
 - Add FAQ knowledge base for smarter contextual replies  
 - Implement role-based admin dashboard  
@@ -95,10 +95,10 @@ DATABASE_URL=postgresql+psycopg2://USER:PASSWORD@localhost:5432/DB_NAME
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **Ting Liu** — AI Developer & Automation Enthusiast  
-📧 Email: [holasoybrisa666@gmail.com](mailto:holasoybrisa666@gmail.com)  
+ Email: [holasoybrisa666@gmail.com](mailto:holasoybrisa666@gmail.com)  
 
 ---
 
