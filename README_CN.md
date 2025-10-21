@@ -1,23 +1,23 @@
 
-# 🤖 AI 客服系统
+#  AI 客服系统
 
 一个基于 **Flask + OpenAI + PostgreSQL** 构建的智能客服聊天系统，
 支持自动对话记录、n8n 自动化集成，并拥有简洁直观的网页界面。
 
 ---
 
-## 🌟 功能亮点
+##  功能亮点
 
-- 💬 基于 OpenAI GPT-4o-mini 的 AI 聊天功能  
-- 🗂 自动将每次对话保存至 PostgreSQL 数据库  
-- 📊 提供后台管理界面，可查看和导出聊天记录  
-- 🔗 集成 n8n Webhook，实现自动化工作流  
-- ⚙️ 使用 `.env` 文件进行环境配置  
-- 🧱 结构清晰，支持部署到 Render / Railway 等云平台  
+-  基于 OpenAI GPT-4o-mini 的 AI 聊天功能  
+-  自动将每次对话保存至 PostgreSQL 数据库  
+-  提供后台管理界面，可查看和导出聊天记录  
+-  集成 n8n Webhook，实现自动化工作流  
+-  使用 `.env` 文件进行环境配置  
+-  结构清晰，支持部署到 Render / Railway 等云平台  
 
 ---
 
-## 🛠 技术栈
+## 技术栈
 
 | 模块 | 技术 |
 |------|------|
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 本地运行步骤
+## 本地运行步骤
 
 ```bash
 git clone https://github.com/yourname/ai_customer_service_demo.git
@@ -51,29 +51,29 @@ python app.py
 
 ---
 
-## 📸 项目截图
+##  项目截图
 
-### 💻 Flask 运行界面
+### Flask 运行界面
 ![Run Server](static/run_server.png)
 
-### 💬 聊天页面
+### 聊天页面
 ![Chat Demo](static/chat_demo.png)
 
-### 🗄️ 数据库存储（PostgreSQL）
+### 数据库存储（PostgreSQL）
 ![Database Logs](static/db_logs.png)
 
-### 🔗 n8n 工作流集成
+### n8n 工作流集成
 ![n8n Workflow](static/n8n_workflow.png)
 
-### ⚙️ n8n 执行日志
+### n8n 执行日志
 ![n8n Execution](static/n8n_execution.png)
 
-### 📁 项目结构
+### 项目结构
 ![Project Structure](static/project_structure.png)
 
 ---
 
-## ⚙️ 环境变量 (.env)
+##  环境变量 (.env)
 
 ```bash
 # OpenAI API Key
@@ -92,7 +92,7 @@ N8N_WEBHOOK_URL=https://your-n8n-url/webhook/ai_logs
 
 ---
 
-## 🧠 后续可扩展方向
+## 后续可扩展方向
 
 - 增加 FAQ 知识库，实现基于上下文的智能问答  
 - 开发带权限控制的后台管理系统  
@@ -100,12 +100,11 @@ N8N_WEBHOOK_URL=https://your-n8n-url/webhook/ai_logs
 
 ---
 
-## 🧑‍💻 作者
+## 作者
 
-**Ting Liu** — AI 开发者 & 自动化爱好者  
-🌐 个人主页：[yourportfolio.com](https://yourportfolio.com)  
-📧 邮箱：[your@email.com](mailto:your@email.com)  
+**Brisa Liu** — AI 开发者 & 自动化爱好者  
+邮箱：(holasoybrisa666@gmail.com)  
 
 ---
 
-⭐ *如果你喜欢这个项目，欢迎在 GitHub 点个 Star！* ⭐
+ *如果你喜欢这个项目，欢迎在 GitHub 点个 Star！* 
