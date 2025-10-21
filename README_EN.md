@@ -97,9 +97,9 @@ DATABASE_URL=postgresql+psycopg2://USER:PASSWORD@localhost:5432/DB_NAME
 
 ##  Author
 
-**Ting Liu** — AI Developer & Automation Enthusiast  
+**Brisa Liu** — AI Developer & Automation Enthusiast  
  Email: [holasoybrisa666@gmail.com](mailto:holasoybrisa666@gmail.com)  
 
 ---
 
-⭐ *If you like this project, consider starring it on GitHub!* ⭐
+⭐ *If you like this project, consider starring it on GitHub!* 
